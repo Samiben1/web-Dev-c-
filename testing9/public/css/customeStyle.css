@@ -1,0 +1,9 @@
+.btn,.form-control{
+    padding: 13px 40px !important;
+}
+.btn-clr{
+    background-color: #6046b6!important;
+}
+.btn-small{
+    padding: 5px 20px !important;
+}
